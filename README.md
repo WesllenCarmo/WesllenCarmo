@@ -1,5 +1,7 @@
 ## Hello! I am Wesllen do Carmo 
 
+---
+
 #### Front End Web Developer
 
 I am a Computer Networks Technician, whose course was integrated with High School. and a passionate and enthusiastic about technology. I am always trying to learn new things about technology and improve my work as a Front End Web Developer.
@@ -12,9 +14,11 @@ I am a Computer Networks Technician, whose course was integrated with High Schoo
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,npm,git,github)](https://skillicons.dev)
 ### How to reach me
-  <p display='flex'>
+<p display='flex'>
     <a href="mailto:developer.wesllen@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
     <a href="https://www.linkedin.com/in/wesllen-ara%C3%BAjo-66327930a"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-  </p>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesllencarmo)](https://github.com/wesllencarmo/github-readme-stats)
+---
+
+![Wesllen's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesllencarmo&show_icons=true&theme=dracula)
