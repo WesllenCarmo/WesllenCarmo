@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello! I am Wesllen do Carmo 
 
-<!--
-**WesllenCarmo/WesllenCarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Front End Web Developer
 
-Here are some ideas to get you started:
+I am a Computer Networks Technician, whose course was integrated with High School. and a passionate and enthusiastic about technology. I am always trying to learn new things about technology and improve my work as a Front End Web Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning React.js
+- Improving my Engish skills in a exchange program in Vancouver, Canada.
+
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,npm,git,github)](https://skillicons.dev)
+### How to reach me
+  <p display='flex'>
+    <a href="mailto:developer.wesllen@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+    <a href="https://www.linkedin.com/in/wesllen-ara%C3%BAjo-66327930a"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesllencarmo)](https://github.com/wesllencarmo/github-readme-stats)
