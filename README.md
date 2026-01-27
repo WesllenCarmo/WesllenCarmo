@@ -4,7 +4,7 @@
 
 #### Front End Web Developer
 
-I am a Computer Networks Technician, whose course was integrated with High School. and a passionate and enthusiastic about technology. I am always trying to learn new things about technology and improve my work as a Front End Web Developer.
+I am a Computer Networks Technician, whose course was integrated with High School, and a passionate and enthusiastic about technology, and a exchange student in Canada (2026). I am always trying to learn new things about technology and improve my work as a Front End Web Developer.
 
 - Currently learning React.js
 - Improving my Engish skills in a exchange program in Vancouver, Canada.
