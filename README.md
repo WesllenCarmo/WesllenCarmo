@@ -21,4 +21,10 @@ I am a Computer Networks Technician, whose course was integrated with High Schoo
 
 ---
 
+<p>
+
 ![Wesllen's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesllencarmo&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesllencarmo&layout=donut-vertical&theme=dracula)](https://github.com/wesllencarmo/github-readme-stats)
+    
+</p>
+
