@@ -12,7 +12,7 @@ I am a Computer Networks Technician, whose course was integrated with High Schoo
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,npm,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,react,figma,npm,git,github)](https://skillicons.dev)
 
 ---
 
