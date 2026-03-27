@@ -19,6 +19,6 @@ I am a Computer Networks Technician, whose course was integrated with High Schoo
 ### How to reach me
 <p display='flex'>
     <a href="mailto:developer.wesllen@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
-    <a href="https://www.linkedin.com/in/wesllen-ara%C3%BAjo-66327930a"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+    <a href="https://www.linkedin.com/in/wesllen-araujo0907"><img src="https://skillicons.dev/icons?i=linkedin"></a>
 </p>
 
